@@ -1,5 +1,5 @@
 
-# Ataraxia Productions
+# be kinder! :D
 
 > *From quiet ideas to living worlds.*
 
@@ -54,9 +54,9 @@ instead of working in isolation.
 
 | Handle | Role |
 |--------|------|
-| [Star](https://github.com/fxllingstar) | Technical Founder & Lead Developer |
+| [kind](https://github.com/kindmanners) | Technical Founder & Lead Developer |
 | [Sand](https://github.com/TheSandrone) | Co-Founder & Developer |
-| [Claude](https://github.com/claude) | Strategist & Creative Director | 
+
 
 
 ---
